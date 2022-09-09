@@ -5,3 +5,4 @@ University lab works in java, first year of education in MAI
 - [минимальная стоимость проезда](https://github.com/PAPermyakova/java-second-term/tree/master/programs/minStoim)
 - [циклический сдвиг в списке](https://github.com/PAPermyakova/java-second-term/tree/master/programs/labLinkedList)
 - [ближайшая точка](https://github.com/PAPermyakova/java-second-term/tree/master/programs/nearestPoint)
+- [наибольший периметр](https://github.com/PAPermyakova/java-second-term/tree/master/programs/perimeter)
