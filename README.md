@@ -8,3 +8,4 @@ University lab works in java, first year of education in MAI
 - [наибольший периметр](https://github.com/PAPermyakova/java-second-term/tree/master/programs/perimeter)
 - [строки](https://github.com/PAPermyakova/java-second-term/tree/master/programs/strings)
 - [шестерёнки](https://github.com/PAPermyakova/java-second-term/tree/master/programs/gear-wheel)
+- [забавная игра - сдвиг](https://github.com/PAPermyakova/java-second-term/tree/master/programs/shift)
